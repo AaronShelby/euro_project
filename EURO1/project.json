@@ -1,0 +1,149 @@
+[
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "[1] Welcome!",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\480p30\\sections\\Energy_0000.mp4",
+                "width": 854,
+                "height": 480,
+                "fps": "30",
+                "duration": 3.0,
+                "project_name": "EURO1",
+                "in_project_video": "video_0000.mp4",
+                "in_project_thumbnail": "thumb_0000.jpg",
+                "in_project_id": 0,
+                "parent_id": 0
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "[2] Loading loop",
+                "type": "complete_loop",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\480p30\\sections\\Energy_0001.mp4",
+                "width": 854,
+                "height": 480,
+                "fps": "30",
+                "duration": 5.0,
+                "project_name": "EURO1",
+                "in_project_video": "video_0001.mp4",
+                "in_project_thumbnail": "thumb_0001.jpg",
+                "in_project_id": 1,
+                "parent_id": 1
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "[3] Beginning",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\480p30\\sections\\Energy_0002.mp4",
+                "width": 854,
+                "height": 480,
+                "fps": "30",
+                "duration": 2.5,
+                "project_name": "EURO1",
+                "in_project_video": "video_0002.mp4",
+                "in_project_thumbnail": "thumb_0002.jpg",
+                "in_project_id": 2,
+                "parent_id": 2
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "[4] Alan Eustace",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\480p30\\sections\\Energy_0003.mp4",
+                "width": 854,
+                "height": 480,
+                "fps": "30",
+                "duration": 0.2,
+                "project_name": "EURO1",
+                "in_project_video": "video_0003.mp4",
+                "in_project_thumbnail": "thumb_0003.jpg",
+                "in_project_id": 3,
+                "parent_id": 3
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "[4] [title1]",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\480p30\\sections\\Energy_0004.mp4",
+                "width": 854,
+                "height": 480,
+                "fps": "30",
+                "duration": 3.7,
+                "project_name": "EURO1",
+                "in_project_video": "video_0004.mp4",
+                "in_project_thumbnail": "thumb_0004.jpg",
+                "in_project_id": 4,
+                "parent_id": 4
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "[5] [title2 - height]",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\480p30\\sections\\Energy_0005.mp4",
+                "width": 854,
+                "height": 480,
+                "fps": "30",
+                "duration": 1.0,
+                "project_name": "EURO1",
+                "in_project_video": "video_0005.mp4",
+                "in_project_thumbnail": "thumb_0005.jpg",
+                "in_project_id": 5,
+                "parent_id": 5
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "[6] [title2 - fall]",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\480p30\\sections\\Energy_0006.mp4",
+                "width": 854,
+                "height": 480,
+                "fps": "30",
+                "duration": 9.0,
+                "project_name": "EURO1",
+                "in_project_video": "video_0006.mp4",
+                "in_project_thumbnail": "thumb_0006.jpg",
+                "in_project_id": 6,
+                "parent_id": 6
+            }
+        ]
+    }
+]
