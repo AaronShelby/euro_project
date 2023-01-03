@@ -1,0 +1,527 @@
+[
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "[1] Main Title",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0000.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "a",
+                "in_project_video": "video_0000.mp4",
+                "in_project_thumbnail": "thumb_0000.jpg",
+                "in_project_id": 0,
+                "parent_id": 0
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "[2] Loading Loop",
+                "type": "complete_loop",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0001.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 5.0,
+                "project_name": "a",
+                "in_project_video": "video_0001.mp4",
+                "in_project_thumbnail": "thumb_0001.jpg",
+                "in_project_id": 1,
+                "parent_id": 1
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "[3] End Loading Loop",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0002.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 2.5,
+                "project_name": "a",
+                "in_project_video": "video_0002.mp4",
+                "in_project_thumbnail": "thumb_0002.jpg",
+                "in_project_id": 2,
+                "parent_id": 2
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "[4] Freefall Context",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0003.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 1.2,
+                "project_name": "a",
+                "in_project_video": "video_0003.mp4",
+                "in_project_thumbnail": "thumb_0003.jpg",
+                "in_project_id": 3,
+                "parent_id": 3
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "[5] P1 | FREEFALL",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0004.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 3.7,
+                "project_name": "a",
+                "in_project_video": "video_0004.mp4",
+                "in_project_thumbnail": "thumb_0004.jpg",
+                "in_project_id": 4,
+                "parent_id": 4
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "[6] Height",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0005.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "a",
+                "in_project_video": "video_0005.mp4",
+                "in_project_thumbnail": "thumb_0005.jpg",
+                "in_project_id": 5,
+                "parent_id": 5
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "[7] Potential Energy",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0006.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "a",
+                "in_project_video": "video_0006.mp4",
+                "in_project_thumbnail": "thumb_0006.jpg",
+                "in_project_id": 6,
+                "parent_id": 6
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "[8] Potential Energy Equation",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0007.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "a",
+                "in_project_video": "video_0007.mp4",
+                "in_project_thumbnail": "thumb_0007.jpg",
+                "in_project_id": 7,
+                "parent_id": 7
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "[9] Kinetic Energy",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0008.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "a",
+                "in_project_video": "video_0008.mp4",
+                "in_project_thumbnail": "thumb_0008.jpg",
+                "in_project_id": 8,
+                "parent_id": 8
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 9,
+                "name": "[10] Kinetic Energy Equation",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0009.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "a",
+                "in_project_video": "video_0009.mp4",
+                "in_project_thumbnail": "thumb_0009.jpg",
+                "in_project_id": 9,
+                "parent_id": 9
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 10,
+                "name": "[11] Fall Animation",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0010.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 9.0,
+                "project_name": "a",
+                "in_project_video": "video_0010.mp4",
+                "in_project_thumbnail": "thumb_0010.jpg",
+                "in_project_id": 10,
+                "parent_id": 10
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 11,
+                "name": "[12] Mechanical Energy",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0011.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 2.216667,
+                "project_name": "a",
+                "in_project_video": "video_0011.mp4",
+                "in_project_thumbnail": "thumb_0011.jpg",
+                "in_project_id": 11,
+                "parent_id": 11
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 12,
+                "name": "[13] Mechanical Energy Equation",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0012.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "a",
+                "in_project_video": "video_0012.mp4",
+                "in_project_thumbnail": "thumb_0012.jpg",
+                "in_project_id": 12,
+                "parent_id": 12
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 13,
+                "name": "[14] PE/KE Graphs",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0013.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "a",
+                "in_project_video": "video_0013.mp4",
+                "in_project_thumbnail": "thumb_0013.jpg",
+                "in_project_id": 13,
+                "parent_id": 13
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 14,
+                "name": "[15] PE/KE until First Contact",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0014.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "289280/4823",
+                "duration": 1.883984,
+                "project_name": "a",
+                "in_project_video": "video_0014.mp4",
+                "in_project_thumbnail": "thumb_0014.jpg",
+                "in_project_id": 14,
+                "parent_id": 14
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 15,
+                "name": "[16] Merge Graphs into ME",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0015.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "a",
+                "in_project_video": "video_0015.mp4",
+                "in_project_thumbnail": "thumb_0015.jpg",
+                "in_project_id": 15,
+                "parent_id": 15
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 16,
+                "name": "[17] ME Graphs",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0016.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 9.0,
+                "project_name": "a",
+                "in_project_video": "video_0016.mp4",
+                "in_project_thumbnail": "thumb_0016.jpg",
+                "in_project_id": 16,
+                "parent_id": 16
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 17,
+                "name": "[18] End P1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0017.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "a",
+                "in_project_video": "video_0017.mp4",
+                "in_project_thumbnail": "thumb_0017.jpg",
+                "in_project_id": 17,
+                "parent_id": 17
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 18,
+                "name": "[19] Interview on limits",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy_0018.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "24",
+                "duration": 55.0,
+                "project_name": "a",
+                "in_project_video": "video_0018.mp4",
+                "in_project_thumbnail": "thumb_0018.jpg",
+                "in_project_id": 18,
+                "parent_id": 18
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "[1] P2 | PENDULUM",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy2_0000.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "24",
+                "duration": 17.0,
+                "project_name": "a",
+                "in_project_video": "video_0019.mp4",
+                "in_project_thumbnail": "thumb_0019.jpg",
+                "in_project_id": 19,
+                "parent_id": 19
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "[2] P3 | VENTURI TUNNEL Rest",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy2_0001.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "24",
+                "duration": 3.0,
+                "project_name": "a",
+                "in_project_video": "video_0020.mp4",
+                "in_project_thumbnail": "thumb_0020.jpg",
+                "in_project_id": 20,
+                "parent_id": 20
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "[3] Air",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy2_0002.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "24",
+                "duration": 17.0,
+                "project_name": "a",
+                "in_project_video": "video_0021.mp4",
+                "in_project_thumbnail": "thumb_0021.jpg",
+                "in_project_id": 21,
+                "parent_id": 21
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "[4] Conclusion",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy2_0003.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "a",
+                "in_project_video": "video_0022.mp4",
+                "in_project_thumbnail": "thumb_0022.jpg",
+                "in_project_id": 22,
+                "parent_id": 22
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "[5] Law of CoE",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy2_0004.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "a",
+                "in_project_video": "video_0023.mp4",
+                "in_project_thumbnail": "thumb_0023.jpg",
+                "in_project_id": 23,
+                "parent_id": 23
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "[6] The End",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\PCTemp\\Documents\\Coding Workspace\\py\\course\\manim\\media\\videos\\euro\\1440p60\\sections\\Energy2_0005.mp4",
+                "width": 2560,
+                "height": 1440,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "a",
+                "in_project_video": "video_0024.mp4",
+                "in_project_thumbnail": "thumb_0024.jpg",
+                "in_project_id": 24,
+                "parent_id": 24
+            }
+        ]
+    }
+]
